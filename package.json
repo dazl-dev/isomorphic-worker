@@ -19,8 +19,8 @@
   "author": "Dazl",
   "license": "MIT",
   "devDependencies": {
-    "@dazl/create-disposables": "^18.4.1",
-    "@file-services/path": "^10.0.1",
+    "@dazl/create-disposables": "^18.5.0",
+    "@file-services/path": "^11.0.0",
     "@types/chai": "^5.2.2",
     "@types/mocha": "^10.0.10",
     "@types/node": "22",
