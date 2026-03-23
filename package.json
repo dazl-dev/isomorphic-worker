@@ -35,8 +35,13 @@
     "prettier": "^3.8.1",
     "rimraf": "^6.1.3",
     "source-map-loader": "^5.0.0",
-    "typescript": "~5.9.3",
+    "typescript": "~6.0.2",
     "typescript-eslint": "^8.57.2",
     "webpack": "^5.105.4"
+  },
+  "overrides": {
+    "typescript-eslint": {
+      "typescript": "~6.0.2"
+    }
   }
 }
