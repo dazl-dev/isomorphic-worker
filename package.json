@@ -19,7 +19,7 @@
   "author": "Dazl",
   "license": "MIT",
   "devDependencies": {
-    "@dazl/create-disposables": "^18.7.0",
+    "@dazl/create-disposables": "^18.10.0",
     "@eslint/js": "^10.0.1",
     "@file-services/path": "^11.0.1",
     "@types/chai": "^5.2.3",
